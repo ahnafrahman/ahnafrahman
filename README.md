@@ -19,5 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnafrahman&show_icons=true&locale=en&layout=compact" alt="ahnafrahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafrahman&show_icons=true&locale=en" alt="ahnafrahman" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafrahman&show_icons=true&locale=en" alt="ahnafrahman" theme="transparent" /></p>
