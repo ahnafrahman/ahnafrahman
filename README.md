@@ -19,4 +19,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnafrahman&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafrahman&show_icons=true&locale=en" alt="ahnafrahman"&theme=transparent /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafrahman&langs_count=8&count_private=true&show_icons=true&theme=algolia&layout=compact&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
