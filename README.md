@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnafrahman&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafrahman" /> </p>
 
-- 🔭 I’m currently working on **Bookstore Application**
-- 🌱 I’m currently learning **Python, JavaScript, HTML**
-- 📫 How to reach me **ahnaf.rahman.yyz@gmail.com**
+# 📖 About Me
+- 🔭 Currently working on **Bookstore Application**
+- 📫 Contact me **ahnaf.rahman.yyz@gmail.com**
+- 🎓 Currently studying Bachelors of Computer Engineering at Toronto Metropolitan University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
