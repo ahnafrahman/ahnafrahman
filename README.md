@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnafrahman&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafrahman" /> </p>
 
 - 🔭 I’m currently working on **Bookstore Application**
-
 - 🌱 I’m currently learning **Python, JavaScript, HTML**
-
 - 📫 How to reach me **ahnaf.rahman.yyz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
