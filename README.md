@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Ahnaf Rahman</h1>
-<h3 align="center">2nd year undergrad ECE student @TMU</h3>
+<h3 align="center">3rd year undergrad ECE student @TMU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnafrahman&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafrahman" /> </p>
 
